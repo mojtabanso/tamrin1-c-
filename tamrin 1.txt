@@ -1,0 +1,14 @@
+
+             ‘ŒÌ’ “ÊÃ Ì« ›—œ »Êœ‰
+            int a = int.Parse(Console.ReadLine());
+            if (a % 2 != 0)
+            {
+
+                Console.WriteLine("odd");
+            }
+            else
+            {
+                Console.WriteLine("even");
+            }
+
+            Console.ReadKey();
